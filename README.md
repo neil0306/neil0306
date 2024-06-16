@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Neil0306's GitHub stats](https://github-readme-stats.vercel.app/api?username=neil0306&show_icons=true&theme=radical)
+
+![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neil0306&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neil0306&area=true&hide_border=true&theme=dracula)
 <picture>
