@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neil0306&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=neil0306&theme=highcontrast)
+![Top Langs](https://github-readme-stats-three-eta-21.vercel.app/api/top-langs/?username=neil0306&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical&include_all_commits=true&count_private=true)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neil0306&area=true&hide_border=true&theme=dracula)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neil0306/neil0306/output/github-contribution-grid-snake-dark.svg">
