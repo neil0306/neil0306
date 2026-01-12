@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=neil0306&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats-three-eta-21.vercel.app/api?username=neil0306&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats-three-eta-21.vercel.app/api/top-langs/?username=neil0306&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical&include_all_commits=true&count_private=true)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neil0306&area=true&hide_border=true&theme=dracula)
 <picture>
